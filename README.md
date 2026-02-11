@@ -1,2 +1,2 @@
 # Smar.tCard.University.System
-This is the first university project
+This is my first university project
